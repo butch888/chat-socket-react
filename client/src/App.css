@@ -68,3 +68,10 @@ body {
 .chat-user {
   font-weight: 600;
 }
+
+.typing-indicator {
+  color: #999;
+  font-style: italic;
+  font-size: 0.9em;
+  padding: 5px 10px;
+}
